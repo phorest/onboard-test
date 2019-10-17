@@ -1,3 +1,4 @@
 app:
-  key1: abc123
+  key1: abc12344
   key2: test123
+  newKey: value
