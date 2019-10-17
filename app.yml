@@ -1,3 +1,5 @@
 app:
   key1: abc123
+  key22: branchKey
   key2: test123
+  key: value
